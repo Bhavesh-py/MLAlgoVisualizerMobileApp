@@ -1,0 +1,4 @@
+#Tue Nov 24 21:45:39 IST 2020
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\MLAlgoVisualiserAppFlutter-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
